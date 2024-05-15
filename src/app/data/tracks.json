@@ -1,0 +1,134 @@
+{
+    "data":[
+        {
+            "_id": 1,
+            "name": "El Cartel De Los Pesados",
+            "album":"16 Narco Corridos",
+            "cover": "https://lastfm.freetls.fastly.net/i/u/ar0/d967594f422048de98181f7077f61e61.jpg",
+            "artist": {
+                "name":"Larry Hernández",
+                "nickname":"Larry",
+                "nationality": "USA"
+            },
+            "duration":{
+                "start":0,
+                "end":307
+            },
+            "url":"https://localhost:300/track.mp3"
+
+        },
+        {
+            "_id": 2,
+            "name": "A Que Me Quedo Contigo",
+            "album": "Trozos De Mi Alma",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/e/e0/Trozos_de_Mi_Alma.jpg",
+            "artist": {
+                "name": "Marco Antonio Solís",
+                "nickname": "El Buki",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 425
+            },
+            "url": "http://localhost:3000/track-1.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "Por Qué No eres Libre",
+            "album": "El chile Pelaiz",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/57/4f/c4/574fc416-65ba-3be2-2546-2d2108325769/00808835024020.rgb.jpg/1200x1200bf-60.jpg",
+            "artist": {
+                "name": "Grupo Exterminador",
+                "nickname": "Grupo Exterminador",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 341
+            },
+            "url": "http://localhost:3000/track-2.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Para Qué",
+            "album": "Verano De Amor",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/50/c8/1450c853-d706-d1e3-0351-e53ea304ee41/27900.jpg/1200x1200bb.jpg",
+            "artist": {
+                "name": "Industria Del Amor",
+                "nickname": "Industria Del Amor",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 312
+            },
+            "url": "http://localhost:3000/track-4.mp3"
+        },
+        {
+            "_id": 5,
+            "name": "En Cada Gota De Mi Sangre",
+            "album": "Morir De Amor",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/72/96/8572962e-45ec-4d37-fa21-45f1ab61f091/06UMGIM11037.rgb.jpg/1200x1200bf-60.jpg",
+            "artist": {
+                "name": "Conjunto Primavera",
+                "nickname": "Conjunto Primavera",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 327
+            },
+            "url": "http://localhost:3000/track-3.mp3"
+        },
+        {
+            "_id": 6,
+            "name": "Bad Moon Rising",
+            "album": "Green River",
+            "cover": "https://i.pinimg.com/474x/99/e3/63/99e36327ebdd3b9d08cea2c2391c8074.jpg",
+            "artist": {
+                "name": "Creedence Clearwater Revival",
+                "nickname": "Creedence Clearwater Revival",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 225
+            },
+            "url": "http://localhost:3000/track-5.mp3"
+        },
+        {
+            "_id": 7,
+            "name": "Le Hable A Mi Compa",
+            "album": "Las Puertas Del Infierno",
+            "cover": "https://i.scdn.co/image/ab67616d0000b273ab1a2ff5410fab79a7c7da7c",
+            "artist": {
+                "name": "Los Inquietos Del Norte",
+                "nickname": "Los Inquietos Del Norte",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 200
+            },
+            "url": "http://localhost:3000/track-6.mp3"
+        },
+        {
+            "_id": 8,
+            "name": "Pensando En Ti",
+            "album": "Mar De Penas",
+            "cover": "https://i.scdn.co/image/ab67616d0000b273a4b12d2dc22f56a151b260fb",
+            "artist": {
+                "name": "Laberinto",
+                "nickname": "Laberinto",
+                "nationality": "Mexicana"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-7.mp3"
+        }
+    ]
+}
+    
