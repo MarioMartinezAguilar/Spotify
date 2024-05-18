@@ -4,7 +4,7 @@
 **Clon de Spotify**
 
 ## Versiones Del Proyectos:
-1. Angular(13.4.0)
+1. Angular(14.3.0)
 2. NodeJs(v14.17.6)
 
 ## Descripción Del Proyecto de Spotify
